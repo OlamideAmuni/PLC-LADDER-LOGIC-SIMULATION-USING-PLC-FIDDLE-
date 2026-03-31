@@ -6,7 +6,7 @@ This project demonstrates a ladder logic system designed using:
 - Conditional logic (Comparison blocks)
 - closed loop system using branches contact (OR)
   
-The system simulates a control process involving alarms and pump activation based on user input and timing conditions and alos based on feedback.
+The system simulates a control process involving alarms and pump activation based on user input and timing conditions and also based on feedback.
 
 ## Logic Breakdown
 # 1. Window Alarm
@@ -129,6 +129,9 @@ Examples:
 - Unexpected rapid counter increments might indicate possible malicious automation
 - Timer bypass shows process manipulation
 - Unauthorized reset signals leads to alarm suppression
+
+## Tools And Software
+- Plcfiddle (A web based Plc ladder logic program simulator)
   
 ## Conclusion
 This project helped translate:
