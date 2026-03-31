@@ -44,13 +44,9 @@ The start button increments a counter each time it is pressed
 
 Explanation:
 
-Each press increases:
+Each press increases ACC (Accumulated value)
 
-ACC (Accumulated value)
-
-The counter has:
-
-PRE (Preset value) = 3
+The counter has PRE (Preset value) = 3
 
 - Counter Comparison switch on Pump
   
