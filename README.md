@@ -111,6 +111,8 @@ After 3 presses → Counter pump ON
 4. Start button also triggers timer:
 After 3 seconds → Timer pump ON.
 
+![PLCfiddle Ladder Logic Screenshot](plcfiddle_ladder_logic_screenshot.jpeg)
+
 ## Key Concepts Demonstrated
 - Event counting 
 - Time delay control 
